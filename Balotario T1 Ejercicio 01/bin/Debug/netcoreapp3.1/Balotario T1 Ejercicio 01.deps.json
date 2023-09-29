@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Balotario T1 Ejercicio 01/1.0.0": {
+        "runtime": {
+          "Balotario T1 Ejercicio 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Balotario T1 Ejercicio 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

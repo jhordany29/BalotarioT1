@@ -1,0 +1,28 @@
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.exe
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.deps.json
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.dll
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.pdb
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.dll
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.pdb
+C:\Users\Lenovo\source\repos\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.genruntimeconfig.cache
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.exe
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.deps.json
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.runtimeconfig.json
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.runtimeconfig.dev.json
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.dll
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\bin\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.pdb
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.AssemblyInfo.cs
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.dll
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.pdb
+C:\Users\User\Desktop\Balotario T1\Balotario T1 Ejercicio 01\Balotario T1 Ejercicio 01\obj\Debug\netcoreapp3.1\Balotario T1 Ejercicio 01.genruntimeconfig.cache
